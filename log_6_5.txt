@@ -1,0 +1,5 @@
+#####################
+LOG_2020_6_5
+FINISHED:
+1.the valid padding of the st-gcn, force the time dimension of output to be 1.
+2.modify the DataSet so that make the net predict log(y+1) instead of y, set args.ylog to True

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="fangchao@v2h3408810.iok.la:16122">
+    <serverData>
+      <paths name="cc@172.18.34.21:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fangchao@v2h3408810.iok.la:16122">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fangchao/Documents/proj_baiduAI_qyx" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fangchao@v2h3408810.iok.la:16122 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fangchao/Documents/proj_baiduAI_qyx" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fangchao@v2h3408810.iok.la:16122 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/fangchao/Documents/proj_baiduAI_qyx" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hq@172.18.40.24:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hq@172.18.40.24:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="qyx@172.18.34.21:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
